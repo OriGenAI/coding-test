@@ -6,7 +6,7 @@ curl --location --request POST 'http://localhost:5000/datasets' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "data_name": "test",
-    "type": "process",
+    "type": "raw",
     "sim_list": "sim1.tar.xz,sim2.tar.xz"
 }'
 
