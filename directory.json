@@ -1,0 +1,4 @@
+{
+    "storage": "http://generic-data-storage-service/storage",
+    "token_validation": "http://token-validation-service/token"
+}

@@ -1,0 +1,8 @@
+{
+    "bucket" : "bucket-prod",
+    "db_endpoint": "endpoint-prod",
+    "db_port" : "3306",
+    "db_user" : "platformAccesser",
+    "ssl" : "rds-ca-2019-root.pem",
+    "job_queue": "data-processing-queue-prod"
+}

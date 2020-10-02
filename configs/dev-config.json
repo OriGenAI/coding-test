@@ -1,0 +1,9 @@
+{
+    "bucket": "bucket-dev",
+    "db_endpoint" : "endpoint-dev",
+    "db_port" : "3306",
+    "db_user" : "platformAccesser",
+    "ssl" : "rds-ca-2019-root.pem",
+    "job_queue": "data-processing-queue-dev",
+    "job_definition": "data-processing-job-dev"
+}

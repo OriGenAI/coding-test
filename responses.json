@@ -1,0 +1,42 @@
+{"responses": [
+    [{
+        "data_id": 0,
+        "raw_id": -1,
+        "dstruct_id": 0,
+        "data_name": "data 1",
+        "config": "some config",
+        "loc": "some loc",
+        "t_create": "today",
+        "t_modify": "today",
+        "meta": null
+    },
+    {
+        "data_id": 1,
+        "raw_id": -1,
+        "dstruct_id": 0,
+        "data_name": "data 2",
+        "config": "some other config",
+        "loc": "some other loc",
+        "t_create": "yesterday",
+        "t_modify": "today",
+        "meta": null
+    }],
+    { "id": "444444", "status": "Complete", "progress": "Complete", "eta": "0"},
+    {},
+    {"id": 1},
+    {"Result": {"name": "sim_name.tar.xz", "url": "www.placeholder.ai"}, "status_code": 200},
+    {"id": 1},
+    {"loc": "random location"},
+    {
+        "data_id": 0,
+        "raw_id": -1,
+        "dstruct_id": 0,
+        "data_name": "data 1",
+        "config": "some config",
+        "loc": "some loc",
+        "t_create": "today",
+        "t_modify": "today",
+        "meta": null
+    }
+
+]}
