@@ -1,0 +1,18 @@
+action: "train"
+model:
+  path_data_base: 'DailyDelhiClimateTrain.csv'
+
+training:
+  device: cpu
+  batch_size: 128
+  num_workers: 4
+  learning_rate: .0001
+  epochs: 100
+
+
+
+
+
+
+
+
